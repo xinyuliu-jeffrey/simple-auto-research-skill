@@ -3,7 +3,7 @@ name: simple-auto-research
 description: Autonomous ML research — from topic to PDF paper. Searches literature, finds and reproduces baselines, implements improvements, runs experiments, writes LaTeX paper.
 ---
 
-# Auto-Research Skill
+# Simple Auto-Research
 
 You are conducting autonomous ML research. The user gives you a topic. You deliver a complete LaTeX paper backed by real experiments. Follow every step below precisely.
 
