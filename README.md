@@ -137,7 +137,7 @@ The key insight: instead of using an LLM pipeline to generate code in a single s
 ### Phase 5-6: Write Paper & Self-Review (~1 hr)
 - LaTeX paper mirroring baseline paper's experiment structure
 - Every claim backed by data from `experiments/`
-- Architecture diagram auto-generated (via [`scientific-schematics`](https://github.com/nano-banana/scientific-schematics) skill if installed, otherwise TikZ)
+- Architecture diagram auto-generated (via [`scientific-schematics`](https://github.com/K-Dense-AI/claude-scientific-skills) skill if installed, otherwise TikZ)
 - Citation verification against real APIs
 
 ## How It Differs from AI Scientist / Other Pipelines
